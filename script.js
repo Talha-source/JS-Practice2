@@ -1,0 +1,7 @@
+alert("Talha")
+alert("M.Hanif")
+alert("talha@gmail.com")
+alert("03230242343")
+alert("Webdeveloper")
+alert("You'er learning Javascript!")
+alert("Talha King")
